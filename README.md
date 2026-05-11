@@ -1,5 +1,4 @@
-
-title: Purepic
+TITLE: Purepic
 ---
 
 # PurePic: Smart Nutrition & Health AI 🥦🧠
