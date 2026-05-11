@@ -1,0 +1,6 @@
+google-genai
+huggingface_hub
+pillow
+python-dotenv
+sqlalchemy
+gradio
