@@ -1,11 +1,5 @@
----
+
 title: Purepic
-emoji: 🥦
-colorFrom: green
-colorTo: yellow
-sdk: gradio
-app_file: app.py
-pinned: false
 ---
 
 # PurePic: Smart Nutrition & Health AI 🥦🧠
